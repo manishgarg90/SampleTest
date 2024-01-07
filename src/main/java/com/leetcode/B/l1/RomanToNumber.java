@@ -55,7 +55,7 @@ public class RomanToNumber {
 //		System.out.println(romanToInt("XXIV"));
 //		System.out.println(romanToInt("III"));
 //		System.out.println(romanToInt("LVIII"));
-		System.out.println(romanToInt("MCMXCIV"));
+		System.out.println(romanToInt("LCLIXIVI"));
 	}
 
 }

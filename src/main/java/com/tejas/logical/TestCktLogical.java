@@ -4,7 +4,7 @@ public class TestCktLogical {
 
 	public static void main(String[] args) {
 		
-		if( false || true && false) {
+		if( false || true && true) {
 			System.out.println("in");
 		}
 		
